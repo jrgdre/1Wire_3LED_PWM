@@ -1,0 +1,9 @@
+Z:\documents\projects\Cypress\OwnProjects\TactileSwitchMatrix10.cydsn\TactileSwitchMatrix10.cyprj|318f3992-f7d3-4b5a-97c0-f49bea017d0f
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|a513918f-a6b2-4c14-9648-fd76c9a67f6a
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e613d952-ece3-45eb-b079-bcf7462b2f87
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|5bc4fcf6-b289-4840-bef7-b715d11200ce
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|6c6d11d8-6596-4a55-8ec0-206f9e14041c
+Z:\documents\projects\Cypress\OwnProjects\CapacitiveButtonMatrixKBD.cydsn\CapacitiveButtonMatrixKBD.cyprj|fb5d658c-640a-4b8a-93e9-4ef664a4ef28
+Z:\documents\projects\Cypress\OwnProjects\HelloTLC59731.cydsn\HelloTLC59731.cyprj|13cb5ca7-3bea-4f81-8057-8c187c9d2d28
+Z:\documents\projects\Cypress\OwnProjects\TimerExample.cydsn\TimerExample.cyprj|4ddfa8ca-03f2-425b-b10d-91734510bba0
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|a3bde0d0-66e8-4900-8799-5fb81fb16040

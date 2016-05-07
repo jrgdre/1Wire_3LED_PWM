@@ -1,0 +1,38 @@
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/CortexM0/ARM_GCC_493/Debug/main.o : Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/CyFlash.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/CyLFClk.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/CyLib.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/Pin_1.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/Pin_1_aliases.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/core_cm0.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/core_cmFunc.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/core_cmInstr.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cyPm.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cydevice_trm.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cydisabledsheets.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cyfitter.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cypins.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cytypes.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/project.h Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/main.c 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/Pin_1.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/Pin_1_aliases.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/core_cmFunc.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/core_cmInstr.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/Generated_Source/PSoC4/project.h : 
+
+Z:/documents/projects/Cypress/OwnProjects/HelloTLC59731.cydsn/main.c : 
+
