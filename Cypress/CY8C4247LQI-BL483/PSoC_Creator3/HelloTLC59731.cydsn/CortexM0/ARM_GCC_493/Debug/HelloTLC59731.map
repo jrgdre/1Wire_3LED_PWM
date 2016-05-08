@@ -675,21 +675,21 @@ END GROUP
  .debug_frame   0x00000ab4       0x28 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
  .debug_frame   0x00000adc       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
 
-.debug_str      0x00000000      0xed3
+.debug_str      0x00000000      0xf34
  *(.debug_str)
- .debug_str     0x00000000      0x199 .\CortexM0\ARM_GCC_493\Debug\main.o
-                                0x1da (size before relaxing)
- .debug_str     0x00000199       0x5b .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+ .debug_str     0x00000000      0x1bc .\CortexM0\ARM_GCC_493\Debug\main.o
+                                0x1fd (size before relaxing)
+ .debug_str     0x000001bc       0x99 .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
                                 0x1cc (size before relaxing)
- .debug_str     0x000001f4      0x163 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .debug_str     0x00000255      0x163 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
                                 0x2f3 (size before relaxing)
- .debug_str     0x00000357       0xf8 .\CortexM0\ARM_GCC_493\Debug\HelloTLC59731.a(cyfitter_cfg.o)
+ .debug_str     0x000003b8       0xf8 .\CortexM0\ARM_GCC_493\Debug\HelloTLC59731.a(cyfitter_cfg.o)
                                 0x2b5 (size before relaxing)
- .debug_str     0x0000044f       0xac .\CortexM0\ARM_GCC_493\Debug\HelloTLC59731.a(Pin_1.o)
+ .debug_str     0x000004b0       0xac .\CortexM0\ARM_GCC_493\Debug\HelloTLC59731.a(Pin_1.o)
                                 0x234 (size before relaxing)
- .debug_str     0x000004fb      0x4cc .\CortexM0\ARM_GCC_493\Debug\HelloTLC59731.a(CyLib.o)
+ .debug_str     0x0000055c      0x4cc .\CortexM0\ARM_GCC_493\Debug\HelloTLC59731.a(CyLib.o)
                                 0x6e6 (size before relaxing)
- .debug_str     0x000009c7      0x50c .\CortexM0\ARM_GCC_493\Debug\HelloTLC59731.a(CyLFClk.o)
+ .debug_str     0x00000a28      0x50c .\CortexM0\ARM_GCC_493\Debug\HelloTLC59731.a(CyLFClk.o)
                                 0x71c (size before relaxing)
 
 .debug_loc      0x00000000     0x1105

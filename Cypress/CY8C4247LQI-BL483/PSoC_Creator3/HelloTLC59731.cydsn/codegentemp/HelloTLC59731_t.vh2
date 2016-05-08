@@ -1,5 +1,5 @@
--- Project:   Z:\documents\projects\Cypress\OwnProjects\HelloTLC59731.cydsn\HelloTLC59731.cyprj
--- Generated: 04/12/2016 09:51:02
+-- Project:   Z:\documents\projects\1Wire_3LED_PWM\Cypress\CY8C4247LQI-BL483\PSoC_Creator3\HelloTLC59731.cydsn\HelloTLC59731.cyprj
+-- Generated: 05/08/2016 04:16:02
 -- PSoC Creator  3.3 CP2
 
 ENTITY HelloTLC59731 IS

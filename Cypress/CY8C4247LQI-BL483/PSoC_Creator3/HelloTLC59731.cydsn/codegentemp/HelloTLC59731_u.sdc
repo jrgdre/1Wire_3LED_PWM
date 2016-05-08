@@ -1,3 +1,3 @@
-# Component constraints for Z:\documents\projects\Cypress\OwnProjects\HelloTLC59731.cydsn\TopDesign\TopDesign.cysch
-# Project: Z:\documents\projects\Cypress\OwnProjects\HelloTLC59731.cydsn\HelloTLC59731.cyprj
-# Date: Tue, 12 Apr 2016 07:51:00 GMT
+# Component constraints for Z:\documents\projects\1Wire_3LED_PWM\Cypress\CY8C4247LQI-BL483\PSoC_Creator3\HelloTLC59731.cydsn\TopDesign\TopDesign.cysch
+# Project: Z:\documents\projects\1Wire_3LED_PWM\Cypress\CY8C4247LQI-BL483\PSoC_Creator3\HelloTLC59731.cydsn\HelloTLC59731.cyprj
+# Date: Sun, 08 May 2016 02:15:59 GMT
